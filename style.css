@@ -1,0 +1,39 @@
+main {
+    width: 1024px;
+    position: absolute;
+    
+}
+.square {
+    position: relative;
+    width: 1024px;
+    height: 950px;
+    background: cadetblue;
+    top: -430px;
+
+}
+.inform {
+    position: relative;
+    z-index: 200;
+    top: -900px;
+}
+h1 {
+    position: relative;
+    z-index: 50;
+    left: 30px;
+}
+.img {
+    position: relative;
+    z-index: 50;
+    left: 20px;
+}
+.contact {
+    position: relative;
+    z-index: 100;
+    top: 400px;
+    left: 30px;
+
+}
+body {
+    width:1024px;
+    margin:0 auto;
+}
